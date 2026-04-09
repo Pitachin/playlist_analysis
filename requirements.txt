@@ -1,0 +1,7 @@
+pyncm # 第三方网易云音乐 Python API + 转储工具
+pandas # 處理表格數據
+transformers # 使用Hugging Face的深度模型庫
+torch # 深度學習框架
+tqdm # 進度條顯示庫
+scikit-learn # 傳統機器學習 與 數據預處理工具包
+jieba # 中文分詞工具
